@@ -1,4 +1,2 @@
 streamlit
 webbrowser
-datetime
-pandas
